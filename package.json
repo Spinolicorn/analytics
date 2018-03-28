@@ -1,0 +1,10 @@
+{
+  "name": "starter-node-angular",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "latest",
+    "method-override": "latest",
+    "mongoose": "^5.0.11"
+  }
+}
